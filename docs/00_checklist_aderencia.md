@@ -8,7 +8,7 @@
 | Dataset construído pelo grupo | 184 observações em `observacoes_sentinel.csv` | Concluído |
 | Dataset rotulado | 92 pontos com prioridade e justificativa | Concluído |
 | Dados não artificiais | Métricas calculadas diretamente das cenas públicas | Concluído |
-| Automação | Da consulta STAC aos CSVs, gráficos e mapa | Concluído |
+| Automação | Da consulta STAC aos CSVs e gráficos | Concluído |
 | Preparação e engenharia de atributos | Máscara de qualidade, NDVI, p90 e variação temporal | Concluído |
 | Avaliação dos resultados | Cobertura, validade, distribuição e comparação temporal | Concluído |
 | Discussão das limitações | Relatório e `03_analise_resultados.md` | Concluído |

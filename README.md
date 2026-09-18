@@ -22,7 +22,7 @@ observação de pesquisa foi criada artificialmente.
 - 184 observações tabulares reais;
 - 92 pontos com dados válidos nos dois períodos;
 - 65 pontos de prioridade baixa, 22 média e 5 alta;
-- mapa interativo, três gráficos e dataset final rotulado.
+- três gráficos, tabela de pontos prioritários e dataset final rotulado.
 
 As prioridades são indicadores para triagem. Não são laudos de risco e precisam
 de validação em campo antes de qualquer decisão de manutenção.
@@ -35,7 +35,6 @@ relatorio/relatorio_final.docx               relatório final formatado
 relatorio/relatorio_final.md                 texto completo do trabalho
 data/processed/observacoes_sentinel.csv      184 observações reais
 data/processed/segmentos_priorizados.csv     92 pontos rotulados
-outputs/mapa_prioridades.html                mapa interativo
 outputs/figures/                             gráficos da análise
 scripts/coletar_sentinel.py                  aquisição e preparação
 scripts/analisar_sentinel.py                 análise, rótulos e produtos
@@ -59,7 +58,7 @@ A coleta exige internet. A análise pode ser refeita usando os CSVs já incluíd
 
 1. Clique no botão **Abrir no Google Colab** no início deste README.
 2. No Colab, escolha **Ambiente de execução > Executar tudo**.
-3. Aguarde a conclusão das células e confira as tabelas, os gráficos e o mapa.
+3. Aguarde a conclusão das células e confira as tabelas e os gráficos.
 
 O notebook usa os dados reais incluídos. Há uma opção explícita para refazer a
 coleta pela API. O próprio notebook baixa este repositório automaticamente; não

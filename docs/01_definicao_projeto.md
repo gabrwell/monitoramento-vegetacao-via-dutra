@@ -26,7 +26,7 @@ georreferenciada de prioridades para inspeção.
 4. Calcular NDVI em uma vizinhança de 60 m ao redor de cada ponto.
 5. Comparar agosto de 2024 com agosto de 2025 para reduzir diferenças sazonais.
 6. Criar um rótulo proxy de prioridade por critérios fixos e explicáveis.
-7. Gerar dataset, gráficos, mapa e discussão das limitações.
+7. Gerar dataset, gráficos, tabela de prioridades e discussão das limitações.
 
 ## Recorte
 

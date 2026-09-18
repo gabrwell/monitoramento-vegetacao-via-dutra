@@ -346,7 +346,7 @@ def main():
         doc,
         "O objetivo foi construir um pipeline capaz de obter cenas reais, preparar dados, "
         "calcular indicadores de vegetação, criar rótulos explicáveis e apresentar os "
-        "resultados em tabela, gráficos e mapa.",
+        "resultados em tabela e gráficos.",
     )
     adicionar_lista(
         doc,

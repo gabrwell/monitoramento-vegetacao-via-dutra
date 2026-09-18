@@ -1,4 +1,4 @@
-"""Analisa o dataset Sentinel-2 e gera rótulos, figuras, mapa e resumo."""
+"""Analisa o dataset Sentinel-2 e gera rótulos, figuras e resumo."""
 
 from __future__ import annotations
 
@@ -7,7 +7,6 @@ import json
 import os
 from pathlib import Path
 
-import folium
 import numpy as np
 import pandas as pd
 
@@ -129,25 +128,6 @@ def main() -> int:
     plt.tight_layout()
     plt.savefig(figuras / "variacao_ndvi.png", dpi=180)
     plt.close()
-
-    centro = [float(largo["latitude"].mean()), float(largo["longitude"].mean())]
-    mapa = folium.Map(location=centro, zoom_start=12, tiles="OpenStreetMap")
-    for linha in largo.itertuples():
-        folium.CircleMarker(
-            [linha.latitude, linha.longitude],
-            radius=5,
-            color=cores[linha.prioridade_inspecao],
-            fill=True,
-            fill_opacity=0.85,
-            tooltip=f"{linha.ponto_id}: {linha.prioridade_inspecao}",
-            popup=(
-                f"<b>{linha.ponto_id}</b><br>Prioridade: {linha.prioridade_inspecao}<br>"
-                f"NDVI atual: {linha.ndvi_media_atual:.3f}<br>"
-                f"Variação: {linha.delta_ndvi_media:.3f}<br>"
-                f"Vegetação densa: {linha.fracao_vegetacao_densa_atual:.1%}"
-            ),
-        ).add_to(mapa)
-    mapa.save(ROOT / "outputs/mapa_prioridades.html")
 
     resumo = {
         "fonte": config["fonte"],

@@ -53,7 +53,7 @@ produziria uma avaliação circular. A prova de conceito foi avaliada por:
 - distribuição das classes;
 - reprodutibilidade dos rótulos;
 - coerência entre presença atual e variação temporal;
-- inspeção dos pontos extremos e do mapa.
+- inspeção dos pontos extremos e da tabela de prioridades.
 
 ## Limitações encontradas
 

@@ -17,7 +17,6 @@ outputs/*
 !data/processed/segmentos_priorizados.csv
 !outputs/.gitkeep
 !outputs/resumo_resultados.json
-!outputs/mapa_prioridades.html
 !outputs/figures/
 !outputs/figures/*.png
 
