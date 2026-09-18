@@ -1,0 +1,28 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.ipynb_checkpoints/
+trabalho_faculdade4_colab.zip
+
+# Dados coletados e produtos reproduzíveis
+data/raw/images/
+data/raw/*.csv
+data/processed/*.csv
+outputs/*
+!data/raw/pontos_amostragem.csv
+!data/raw/itens_sentinel.json
+!data/processed/observacoes_sentinel.csv
+!data/processed/segmentos_priorizados.csv
+!outputs/.gitkeep
+!outputs/resumo_resultados.json
+!outputs/mapa_prioridades.html
+!outputs/figures/
+!outputs/figures/*.png
+
+# Editores e sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,30 @@
+{
+  "nome": "Variação da vegetação na Via Dutra — Jacareí/São José dos Campos",
+  "pergunta": "Quais pontos da BR-116 apresentam maior presença ou aumento de vegetação no entorno imediato e devem ser priorizados para inspeção?",
+  "rodovia": "BR-116 (Via Dutra)",
+  "concessionaria": "CCR RioSP — Motiva",
+  "bbox": [-46.15, -23.26, -45.75, -23.10],
+  "rota_geojson": "data/external/osm_br116_sjc.geojson",
+  "distancia_pontos_m": 150,
+  "max_pontos": 100,
+  "raio_analise_m": 60,
+  "periodos": [
+    {
+      "nome": "2024",
+      "inicio": "2024-08-23T00:00:00Z",
+      "fim": "2024-08-24T00:00:00Z"
+    },
+    {
+      "nome": "2025",
+      "inicio": "2025-08-13T00:00:00Z",
+      "fim": "2025-08-14T00:00:00Z"
+    }
+  ],
+  "cobertura_nuvens_max_pct": 20,
+  "ndvi_vegetacao_densa": 0.5,
+  "prioridade_alta_ndvi_p90": 0.4,
+  "prioridade_media_ndvi_p90": 0.3,
+  "prioridade_alta_delta_ndvi": 0.05,
+  "prioridade_media_delta_ndvi": 0.025,
+  "fonte": "Sentinel-2 L2A via Microsoft Planetary Computer STAC API"
+}

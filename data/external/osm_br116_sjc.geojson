@@ -1,0 +1,4307 @@
+{
+  "type": "FeatureCollection",
+  "name": "BR-116 Via Dutra — recorte inicial",
+  "attribution": "© OpenStreetMap contributors, ODbL",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 56202796,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9497542,
+            -23.2593396
+          ],
+          [
+            -45.9495366,
+            -23.2592002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 56202797,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9498258,
+            -23.2592738
+          ],
+          [
+            -45.9499994,
+            -23.259387
+          ],
+          [
+            -45.9512896,
+            -23.2602229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 56202798,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9495946,
+            -23.2591267
+          ],
+          [
+            -45.9498258,
+            -23.2592738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 127768481,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9135973,
+            -23.232171
+          ],
+          [
+            -45.9136394,
+            -23.2322185
+          ],
+          [
+            -45.9145541,
+            -23.2330378
+          ],
+          [
+            -45.9164646,
+            -23.2347491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 128515835,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9091561,
+            -23.2284187
+          ],
+          [
+            -45.9051907,
+            -23.2247548
+          ],
+          [
+            -45.9042468,
+            -23.2238922
+          ],
+          [
+            -45.9011783,
+            -23.2210474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 128515841,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8922726,
+            -23.2122416
+          ],
+          [
+            -45.8945863,
+            -23.2144502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 128515843,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8915218,
+            -23.2117018
+          ],
+          [
+            -45.8921681,
+            -23.2123262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 128515844,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8920745,
+            -23.2124019
+          ],
+          [
+            -45.8914256,
+            -23.2117856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 128515847,
+        "name": "Rodovia Pres Dutra -Br 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8919696,
+            -23.2124869
+          ],
+          [
+            -45.8913354,
+            -23.2118642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 128515851,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8916101,
+            -23.2116249
+          ],
+          [
+            -45.8922726,
+            -23.2122416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 129002072,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8896623,
+            -23.2103387
+          ],
+          [
+            -45.8874835,
+            -23.2083051
+          ],
+          [
+            -45.8874554,
+            -23.2082789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 129002073,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8914256,
+            -23.2117856
+          ],
+          [
+            -45.8875496,
+            -23.2082174
+          ],
+          [
+            -45.8838213,
+            -23.2047406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 129002074,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8838996,
+            -23.2046542
+          ],
+          [
+            -45.8876504,
+            -23.2081222
+          ],
+          [
+            -45.8915218,
+            -23.2117018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 129002075,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8840245,
+            -23.2045038
+          ],
+          [
+            -45.8875188,
+            -23.2078413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 129002446,
+        "name": "Rodovia Presidente Dutra BR 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8837384,
+            -23.2048321
+          ],
+          [
+            -45.8832791,
+            -23.2043833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 129002447,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8838213,
+            -23.2047406
+          ],
+          [
+            -45.8833589,
+            -23.2043099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 129002448,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8734504,
+            -23.196169
+          ],
+          [
+            -45.8748668,
+            -23.1970014
+          ],
+          [
+            -45.876045,
+            -23.1977746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 130174830,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7557044,
+            -23.1370263
+          ],
+          [
+            -45.757374,
+            -23.1378501
+          ],
+          [
+            -45.7580094,
+            -23.1381747
+          ],
+          [
+            -45.7585607,
+            -23.1384562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 130174833,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8833589,
+            -23.2043099
+          ],
+          [
+            -45.8783658,
+            -23.1996661
+          ],
+          [
+            -45.8760444,
+            -23.1979318
+          ],
+          [
+            -45.8747831,
+            -23.197066
+          ],
+          [
+            -45.8733286,
+            -23.1962454
+          ],
+          [
+            -45.8725222,
+            -23.1958074
+          ],
+          [
+            -45.8715213,
+            -23.1952891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 131078667,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9495366,
+            -23.2592002
+          ],
+          [
+            -45.9478792,
+            -23.258143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 131078669,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.90364,
+            -23.2230347
+          ],
+          [
+            -45.9038062,
+            -23.2231899
+          ],
+          [
+            -45.9048202,
+            -23.2241365
+          ],
+          [
+            -45.9053188,
+            -23.2246019
+          ],
+          [
+            -45.9126158,
+            -23.2313993
+          ],
+          [
+            -45.9162493,
+            -23.2347839
+          ],
+          [
+            -45.9181475,
+            -23.2365474
+          ],
+          [
+            -45.9194319,
+            -23.2377436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 132547304,
+        "name": "Rua Dutra",
+        "ref": "",
+        "highway": "residential",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8114295,
+            -23.1781253
+          ],
+          [
+            -45.8113612,
+            -23.1781605
+          ],
+          [
+            -45.8107245,
+            -23.1784886
+          ],
+          [
+            -45.8103745,
+            -23.1786653
+          ],
+          [
+            -45.8102152,
+            -23.1787519
+          ],
+          [
+            -45.8101309,
+            -23.1787973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 133740605,
+        "name": "Rua Ana Paula Nunes Dutra",
+        "ref": "",
+        "highway": "residential",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8122719,
+            -23.21277
+          ],
+          [
+            -45.8123804,
+            -23.2126072
+          ],
+          [
+            -45.8127937,
+            -23.2116633
+          ],
+          [
+            -45.8130156,
+            -23.2111128
+          ],
+          [
+            -45.8132053,
+            -23.2105922
+          ],
+          [
+            -45.8131894,
+            -23.2105296
+          ],
+          [
+            -45.8131368,
+            -23.2104895
+          ],
+          [
+            -45.8130647,
+            -23.210474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 153736887,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8739872,
+            -23.1967287
+          ],
+          [
+            -45.8732972,
+            -23.1962774
+          ],
+          [
+            -45.871933,
+            -23.1955648
+          ],
+          [
+            -45.8715213,
+            -23.1952891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 153736889,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8834469,
+            -23.2042291
+          ],
+          [
+            -45.8836393,
+            -23.2044098
+          ],
+          [
+            -45.8838996,
+            -23.2046542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 154543976,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9475942,
+            -23.2578388
+          ],
+          [
+            -45.9479316,
+            -23.2580579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 154543978,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9478792,
+            -23.258143
+          ],
+          [
+            -45.947437,
+            -23.2578697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 154543981,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9511947,
+            -23.260267
+          ],
+          [
+            -45.949953,
+            -23.2594572
+          ],
+          [
+            -45.9497542,
+            -23.2593396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 154543982,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.947999,
+            -23.2581007
+          ],
+          [
+            -45.949089,
+            -23.2588053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 157607541,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7576024,
+            -23.1381509
+          ],
+          [
+            -45.756505,
+            -23.1375958
+          ],
+          [
+            -45.7539812,
+            -23.1363169
+          ],
+          [
+            -45.7532234,
+            -23.1359274
+          ],
+          [
+            -45.7514018,
+            -23.1350142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 157607545,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8081883,
+            -23.1634955
+          ],
+          [
+            -45.8084429,
+            -23.1636272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 157607551,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8083988,
+            -23.1637313
+          ],
+          [
+            -45.8081255,
+            -23.1635904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 157607552,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8084429,
+            -23.1636272
+          ],
+          [
+            -45.8110544,
+            -23.1649335
+          ],
+          [
+            -45.8158312,
+            -23.1673229
+          ],
+          [
+            -45.8170841,
+            -23.1679496
+          ],
+          [
+            -45.8180369,
+            -23.1684262
+          ],
+          [
+            -45.8212393,
+            -23.1700259
+          ],
+          [
+            -45.8223534,
+            -23.170583
+          ],
+          [
+            -45.8224892,
+            -23.1706507
+          ],
+          [
+            -45.8266205,
+            -23.1727091
+          ],
+          [
+            -45.8292008,
+            -23.1739947
+          ],
+          [
+            -45.8322929,
+            -23.1755353
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 158983921,
+        "name": "Rua Dutra",
+        "ref": "",
+        "highway": "residential",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8095806,
+            -23.1794764
+          ],
+          [
+            -45.8096978,
+            -23.1792538
+          ],
+          [
+            -45.8097567,
+            -23.1791227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 160535530,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "",
+        "highway": "motorway_link",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7863667,
+            -23.1522059
+          ],
+          [
+            -45.7864598,
+            -23.1523511
+          ],
+          [
+            -45.7865613,
+            -23.1525157
+          ],
+          [
+            -45.7866966,
+            -23.1526762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 160535532,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "",
+        "highway": "motorway_link",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7853693,
+            -23.1520073
+          ],
+          [
+            -45.7856652,
+            -23.152026
+          ],
+          [
+            -45.7857582,
+            -23.1519874
+          ],
+          [
+            -45.7858248,
+            -23.151933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 217483768,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8299299,
+            -23.1745039
+          ],
+          [
+            -45.8265579,
+            -23.1728321
+          ],
+          [
+            -45.8218352,
+            -23.1704907
+          ],
+          [
+            -45.8179796,
+            -23.1685511
+          ],
+          [
+            -45.8170138,
+            -23.1680652
+          ],
+          [
+            -45.8157807,
+            -23.1674449
+          ],
+          [
+            -45.8083988,
+            -23.1637313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 217483769,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8643064,
+            -23.1917068
+          ],
+          [
+            -45.8638529,
+            -23.1914758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 217483775,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8638868,
+            -23.1913464
+          ],
+          [
+            -45.8643776,
+            -23.1915895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 312157335,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9184406,
+            -23.2372598
+          ],
+          [
+            -45.9179728,
+            -23.2368357
+          ],
+          [
+            -45.9169346,
+            -23.2358944
+          ],
+          [
+            -45.9143248,
+            -23.2334716
+          ],
+          [
+            -45.9125492,
+            -23.2317661
+          ],
+          [
+            -45.9120825,
+            -23.2313347
+          ],
+          [
+            -45.9100387,
+            -23.2294529
+          ],
+          [
+            -45.9065357,
+            -23.226187
+          ],
+          [
+            -45.9060448,
+            -23.2257236
+          ],
+          [
+            -45.9052375,
+            -23.2249756
+          ],
+          [
+            -45.9050601,
+            -23.2248065
+          ],
+          [
+            -45.9045509,
+            -23.2243211
+          ],
+          [
+            -45.9036805,
+            -23.2235398
+          ],
+          [
+            -45.9013268,
+            -23.2213818
+          ],
+          [
+            -45.8999428,
+            -23.2201049
+          ],
+          [
+            -45.8987338,
+            -23.218937
+          ],
+          [
+            -45.8949719,
+            -23.2153429
+          ],
+          [
+            -45.8924171,
+            -23.2129394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 329120124,
+        "name": "Rua Dutra",
+        "ref": "",
+        "highway": "residential",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8095771,
+            -23.1789401
+          ],
+          [
+            -45.8097136,
+            -23.1789505
+          ],
+          [
+            -45.8097903,
+            -23.1789417
+          ],
+          [
+            -45.8101309,
+            -23.1787973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 329120125,
+        "name": "Rua Dutra",
+        "ref": "",
+        "highway": "residential",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8095806,
+            -23.1794764
+          ],
+          [
+            -45.8095129,
+            -23.179565
+          ],
+          [
+            -45.8092013,
+            -23.179973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 332538319,
+        "name": "Alameda Dutra",
+        "ref": "",
+        "highway": "service",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8763266,
+            -23.198917
+          ],
+          [
+            -45.8763088,
+            -23.1988435
+          ],
+          [
+            -45.8760423,
+            -23.1985965
+          ],
+          [
+            -45.8757535,
+            -23.1983739
+          ],
+          [
+            -45.8753886,
+            -23.198129
+          ],
+          [
+            -45.8751337,
+            -23.1978839
+          ],
+          [
+            -45.8749082,
+            -23.1976709
+          ],
+          [
+            -45.8748495,
+            -23.1976034
+          ],
+          [
+            -45.8747398,
+            -23.1974775
+          ],
+          [
+            -45.8745981,
+            -23.1973454
+          ],
+          [
+            -45.8744768,
+            -23.1972454
+          ],
+          [
+            -45.8742941,
+            -23.1971398
+          ],
+          [
+            -45.8740795,
+            -23.1970313
+          ],
+          [
+            -45.8734948,
+            -23.1968587
+          ],
+          [
+            -45.8730127,
+            -23.1967785
+          ],
+          [
+            -45.8727091,
+            -23.1965017
+          ],
+          [
+            -45.8725498,
+            -23.1964285
+          ],
+          [
+            -45.8722188,
+            -23.1963233
+          ],
+          [
+            -45.8721367,
+            -23.1962958
+          ],
+          [
+            -45.8718935,
+            -23.1960279
+          ],
+          [
+            -45.8718106,
+            -23.1960178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027753,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9011783,
+            -23.2210474
+          ],
+          [
+            -45.8994403,
+            -23.2193674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027754,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8994403,
+            -23.2193674
+          ],
+          [
+            -45.8985116,
+            -23.2184892
+          ],
+          [
+            -45.8920745,
+            -23.2124019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027755,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9006521,
+            -23.2202452
+          ],
+          [
+            -45.90364,
+            -23.2230347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027756,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8921681,
+            -23.2123262
+          ],
+          [
+            -45.8967109,
+            -23.2166133
+          ],
+          [
+            -45.8986387,
+            -23.2183898
+          ],
+          [
+            -45.9006521,
+            -23.2202452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027757,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9140009,
+            -23.2328901
+          ],
+          [
+            -45.9133162,
+            -23.2322415
+          ],
+          [
+            -45.9125201,
+            -23.2314872
+          ],
+          [
+            -45.9114144,
+            -23.2304542
+          ],
+          [
+            -45.9109586,
+            -23.2300283
+          ],
+          [
+            -45.9091561,
+            -23.2284187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027758,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.91922,
+            -23.237772
+          ],
+          [
+            -45.9188575,
+            -23.2374416
+          ],
+          [
+            -45.9176124,
+            -23.2362821
+          ],
+          [
+            -45.917406,
+            -23.2360899
+          ],
+          [
+            -45.9170149,
+            -23.2357224
+          ],
+          [
+            -45.9145337,
+            -23.2333907
+          ],
+          [
+            -45.9140009,
+            -23.2328901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027759,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9201245,
+            -23.2386103
+          ],
+          [
+            -45.9198771,
+            -23.2383844
+          ],
+          [
+            -45.9196966,
+            -23.2382203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027760,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9206996,
+            -23.2391386
+          ],
+          [
+            -45.9201245,
+            -23.2386103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027761,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9224159,
+            -23.2407155
+          ],
+          [
+            -45.9213146,
+            -23.2396888
+          ],
+          [
+            -45.9211311,
+            -23.2395246
+          ],
+          [
+            -45.9208001,
+            -23.2392285
+          ],
+          [
+            -45.9206996,
+            -23.2391386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027762,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9194319,
+            -23.2377436
+          ],
+          [
+            -45.919601,
+            -23.2379029
+          ],
+          [
+            -45.9202973,
+            -23.2385589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027763,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9202973,
+            -23.2385589
+          ],
+          [
+            -45.9206881,
+            -23.2389192
+          ],
+          [
+            -45.9235191,
+            -23.2415772
+          ],
+          [
+            -45.9260457,
+            -23.2438114
+          ],
+          [
+            -45.9266807,
+            -23.2443077
+          ],
+          [
+            -45.9267619,
+            -23.2443695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027765,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9329924,
+            -23.2484889
+          ],
+          [
+            -45.9334083,
+            -23.2487555
+          ],
+          [
+            -45.9340779,
+            -23.2491807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027766,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9319567,
+            -23.2478251
+          ],
+          [
+            -45.932348,
+            -23.2480759
+          ],
+          [
+            -45.9329924,
+            -23.2484889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027767,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9309355,
+            -23.2471709
+          ],
+          [
+            -45.9319567,
+            -23.2478251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027768,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.92857,
+            -23.2456575
+          ],
+          [
+            -45.9294883,
+            -23.246244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027769,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.936416,
+            -23.2506211
+          ],
+          [
+            -45.938697,
+            -23.2521122
+          ],
+          [
+            -45.9393565,
+            -23.2525434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027770,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9239726,
+            -23.2421593
+          ],
+          [
+            -45.922858,
+            -23.2411129
+          ],
+          [
+            -45.9224159,
+            -23.2407155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027771,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9286134,
+            -23.2458461
+          ],
+          [
+            -45.9272225,
+            -23.2448997
+          ],
+          [
+            -45.9265553,
+            -23.2444081
+          ],
+          [
+            -45.9261987,
+            -23.2441285
+          ],
+          [
+            -45.9259293,
+            -23.2438931
+          ],
+          [
+            -45.9239726,
+            -23.2421593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027772,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.931381,
+            -23.2476343
+          ],
+          [
+            -45.93055,
+            -23.2470927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027773,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.936391,
+            -23.2508195
+          ],
+          [
+            -45.9360813,
+            -23.2506144
+          ],
+          [
+            -45.9345238,
+            -23.249627
+          ],
+          [
+            -45.9339825,
+            -23.2492838
+          ],
+          [
+            -45.9333252,
+            -23.2488671
+          ],
+          [
+            -45.9329363,
+            -23.2486199
+          ],
+          [
+            -45.931381,
+            -23.2476343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027774,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.936968,
+            -23.2511867
+          ],
+          [
+            -45.936391,
+            -23.2508195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027775,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9424476,
+            -23.2547414
+          ],
+          [
+            -45.9418225,
+            -23.2543341
+          ],
+          [
+            -45.9416363,
+            -23.2542127
+          ],
+          [
+            -45.9403855,
+            -23.2534074
+          ],
+          [
+            -45.936968,
+            -23.2511867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027776,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9440003,
+            -23.2555288
+          ],
+          [
+            -45.9453768,
+            -23.2563987
+          ],
+          [
+            -45.9475942,
+            -23.2578388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027777,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9470287,
+            -23.257648
+          ],
+          [
+            -45.9455922,
+            -23.2567336
+          ],
+          [
+            -45.9439766,
+            -23.255705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027778,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.947437,
+            -23.2578697
+          ],
+          [
+            -45.9470287,
+            -23.257648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772027779,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.949089,
+            -23.2588053
+          ],
+          [
+            -45.9495946,
+            -23.2591267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030607,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9164646,
+            -23.2347491
+          ],
+          [
+            -45.9173673,
+            -23.2355151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030608,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9173673,
+            -23.2355151
+          ],
+          [
+            -45.9177321,
+            -23.2359982
+          ],
+          [
+            -45.918349,
+            -23.2366587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030609,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9058564,
+            -23.2249221
+          ],
+          [
+            -45.9065863,
+            -23.2256044
+          ],
+          [
+            -45.90911,
+            -23.2279637
+          ],
+          [
+            -45.9135973,
+            -23.232171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030610,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9043517,
+            -23.2234653
+          ],
+          [
+            -45.9051644,
+            -23.2242787
+          ],
+          [
+            -45.9058564,
+            -23.2249221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030611,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8995479,
+            -23.2190309
+          ],
+          [
+            -45.9043517,
+            -23.2234653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030612,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8977252,
+            -23.2174137
+          ],
+          [
+            -45.8995479,
+            -23.2190309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030613,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8951659,
+            -23.2149997
+          ],
+          [
+            -45.8977252,
+            -23.2174137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772030614,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8945863,
+            -23.2144502
+          ],
+          [
+            -45.8951659,
+            -23.2149997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037035,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.876045,
+            -23.1977746
+          ],
+          [
+            -45.8773358,
+            -23.1986594
+          ],
+          [
+            -45.8784615,
+            -23.1996111
+          ],
+          [
+            -45.8834469,
+            -23.2042291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037036,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8701988,
+            -23.1945064
+          ],
+          [
+            -45.8727907,
+            -23.1958175
+          ],
+          [
+            -45.8734504,
+            -23.196169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037037,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8686602,
+            -23.1937087
+          ],
+          [
+            -45.8695293,
+            -23.1941743
+          ],
+          [
+            -45.8701988,
+            -23.1945064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037038,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8664561,
+            -23.1926438
+          ],
+          [
+            -45.8686602,
+            -23.1937087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037039,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8643776,
+            -23.1915895
+          ],
+          [
+            -45.8650608,
+            -23.1919238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037040,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8653658,
+            -23.1922356
+          ],
+          [
+            -45.8643064,
+            -23.1917068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037053,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8680391,
+            -23.193585
+          ],
+          [
+            -45.8653658,
+            -23.1922356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037054,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8715213,
+            -23.1952891
+          ],
+          [
+            -45.8705307,
+            -23.1948043
+          ],
+          [
+            -45.8694731,
+            -23.1942867
+          ],
+          [
+            -45.8680391,
+            -23.193585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037056,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8752858,
+            -23.1975579
+          ],
+          [
+            -45.87466,
+            -23.197192
+          ],
+          [
+            -45.8739872,
+            -23.1967287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037057,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8767467,
+            -23.19859
+          ],
+          [
+            -45.8759934,
+            -23.1980419
+          ],
+          [
+            -45.8752858,
+            -23.1975579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037058,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8790779,
+            -23.2004431
+          ],
+          [
+            -45.8782997,
+            -23.1997653
+          ],
+          [
+            -45.8775959,
+            -23.1992134
+          ],
+          [
+            -45.8767467,
+            -23.19859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037059,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8803204,
+            -23.2016582
+          ],
+          [
+            -45.8790779,
+            -23.2004431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037060,
+        "name": "Rodovia Presidente Dutra BR 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8832791,
+            -23.2043833
+          ],
+          [
+            -45.8803204,
+            -23.2016582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037061,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8875188,
+            -23.2078413
+          ],
+          [
+            -45.8887281,
+            -23.2089757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037062,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8887281,
+            -23.2089757
+          ],
+          [
+            -45.8916101,
+            -23.2116249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037063,
+        "name": "Rodovia Presidente Dutra BR 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8874554,
+            -23.2082789
+          ],
+          [
+            -45.8837384,
+            -23.2048321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772037064,
+        "name": "Rodovia Pres Dutrabr 116",
+        "ref": "",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8913354,
+            -23.2118642
+          ],
+          [
+            -45.8896623,
+            -23.2103387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772038438,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8575626,
+            -23.1883802
+          ],
+          [
+            -45.8524041,
+            -23.1857826
+          ],
+          [
+            -45.844424,
+            -23.1817641
+          ],
+          [
+            -45.8437251,
+            -23.1814191
+          ],
+          [
+            -45.8400941,
+            -23.1796057
+          ],
+          [
+            -45.8365783,
+            -23.1778454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772038444,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8425019,
+            -23.1806655
+          ],
+          [
+            -45.8437861,
+            -23.1813081
+          ],
+          [
+            -45.8454424,
+            -23.182137
+          ],
+          [
+            -45.8524734,
+            -23.1856714
+          ],
+          [
+            -45.8546778,
+            -23.1867795
+          ],
+          [
+            -45.8590924,
+            -23.1889735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772038445,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8397305,
+            -23.1792828
+          ],
+          [
+            -45.8425019,
+            -23.1806655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772038454,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8638529,
+            -23.1914758
+          ],
+          [
+            -45.8636401,
+            -23.1913702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772038455,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8590924,
+            -23.1889735
+          ],
+          [
+            -45.8636874,
+            -23.1912501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772038456,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8650608,
+            -23.1919238
+          ],
+          [
+            -45.8664561,
+            -23.1926438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040691,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7495719,
+            -23.1339262
+          ],
+          [
+            -45.7512795,
+            -23.1347715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040692,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7514018,
+            -23.1350142
+          ],
+          [
+            -45.74995,
+            -23.1342833
+          ],
+          [
+            -45.7494947,
+            -23.1340506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040694,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7540586,
+            -23.136196
+          ],
+          [
+            -45.7557044,
+            -23.1370263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040695,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7512795,
+            -23.1347715
+          ],
+          [
+            -45.7540586,
+            -23.136196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040696,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7592903,
+            -23.1388288
+          ],
+          [
+            -45.7609623,
+            -23.1396774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040697,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7585607,
+            -23.1384562
+          ],
+          [
+            -45.7592903,
+            -23.1388288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040698,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7609623,
+            -23.1396774
+          ],
+          [
+            -45.7625053,
+            -23.1404481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040699,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7625053,
+            -23.1404481
+          ],
+          [
+            -45.7648654,
+            -23.1416499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040700,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7587467,
+            -23.1387279
+          ],
+          [
+            -45.7579356,
+            -23.1383277
+          ],
+          [
+            -45.7576024,
+            -23.1381509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040701,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7759833,
+            -23.1473788
+          ],
+          [
+            -45.7751706,
+            -23.1469675
+          ],
+          [
+            -45.7750592,
+            -23.1469112
+          ],
+          [
+            -45.7748379,
+            -23.1467999
+          ],
+          [
+            -45.7747463,
+            -23.1467538
+          ],
+          [
+            -45.7739979,
+            -23.1463775
+          ],
+          [
+            -45.773549,
+            -23.1461518
+          ],
+          [
+            -45.7727475,
+            -23.1457487
+          ],
+          [
+            -45.7710928,
+            -23.1449166
+          ],
+          [
+            -45.7703365,
+            -23.1445368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040702,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7648654,
+            -23.1416499
+          ],
+          [
+            -45.7669978,
+            -23.1427129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040703,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7669978,
+            -23.1427129
+          ],
+          [
+            -45.7683161,
+            -23.1433887
+          ],
+          [
+            -45.7750934,
+            -23.1468058
+          ],
+          [
+            -45.7770655,
+            -23.1477985
+          ],
+          [
+            -45.7780079,
+            -23.1482708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040704,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7779425,
+            -23.1483657
+          ],
+          [
+            -45.7760619,
+            -23.1474184
+          ],
+          [
+            -45.7759833,
+            -23.1473788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040705,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7948157,
+            -23.1568944
+          ],
+          [
+            -45.7929528,
+            -23.1559496
+          ],
+          [
+            -45.7922407,
+            -23.1555904
+          ],
+          [
+            -45.7914548,
+            -23.155194
+          ],
+          [
+            -45.7836026,
+            -23.151233
+          ],
+          [
+            -45.7802586,
+            -23.1495131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040708,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7819916,
+            -23.1502911
+          ],
+          [
+            -45.7836529,
+            -23.1511436
+          ],
+          [
+            -45.784979,
+            -23.1518109
+          ],
+          [
+            -45.7853693,
+            -23.1520073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040710,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7804229,
+            -23.1494903
+          ],
+          [
+            -45.7811568,
+            -23.1498589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040711,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.779743,
+            -23.1491512
+          ],
+          [
+            -45.7804229,
+            -23.1494903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040712,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7811568,
+            -23.1498589
+          ],
+          [
+            -45.7819916,
+            -23.1502911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040713,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7853693,
+            -23.1520073
+          ],
+          [
+            -45.7866966,
+            -23.1526762
+          ],
+          [
+            -45.7915009,
+            -23.1551114
+          ],
+          [
+            -45.7922904,
+            -23.1554923
+          ],
+          [
+            -45.792386,
+            -23.1555356
+          ],
+          [
+            -45.7969371,
+            -23.1578315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040714,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7958486,
+            -23.1574222
+          ],
+          [
+            -45.7948157,
+            -23.1568944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040715,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8018833,
+            -23.1604439
+          ],
+          [
+            -45.8007698,
+            -23.1598864
+          ],
+          [
+            -45.7979563,
+            -23.1584776
+          ],
+          [
+            -45.7958486,
+            -23.1574222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040716,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7969371,
+            -23.1578315
+          ],
+          [
+            -45.7978583,
+            -23.1582952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040717,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7978583,
+            -23.1582952
+          ],
+          [
+            -45.7990381,
+            -23.1588827
+          ],
+          [
+            -45.8002358,
+            -23.1594871
+          ],
+          [
+            -45.8008214,
+            -23.1597838
+          ],
+          [
+            -45.8019397,
+            -23.1603456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040718,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8019397,
+            -23.1603456
+          ],
+          [
+            -45.8038102,
+            -23.1612885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040719,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8034892,
+            -23.1612723
+          ],
+          [
+            -45.8018833,
+            -23.1604439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040720,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8051379,
+            -23.1620788
+          ],
+          [
+            -45.8044808,
+            -23.1617463
+          ],
+          [
+            -45.8034892,
+            -23.1612723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040721,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8038102,
+            -23.1612885
+          ],
+          [
+            -45.8050224,
+            -23.1618765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040722,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8059739,
+            -23.1625018
+          ],
+          [
+            -45.8051379,
+            -23.1620788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040723,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8081255,
+            -23.1635904
+          ],
+          [
+            -45.8059739,
+            -23.1625018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040724,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8050224,
+            -23.1618765
+          ],
+          [
+            -45.8060318,
+            -23.1624084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040725,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8060318,
+            -23.1624084
+          ],
+          [
+            -45.8081883,
+            -23.1634955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040726,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8320238,
+            -23.1755706
+          ],
+          [
+            -45.8299299,
+            -23.1745039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040727,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8365783,
+            -23.1778454
+          ],
+          [
+            -45.8352,
+            -23.1771469
+          ],
+          [
+            -45.8341857,
+            -23.1766357
+          ],
+          [
+            -45.8320238,
+            -23.1755706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040728,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8336041,
+            -23.1761886
+          ],
+          [
+            -45.8352677,
+            -23.1770304
+          ],
+          [
+            -45.837751,
+            -23.178287
+          ],
+          [
+            -45.8394506,
+            -23.1791424
+          ],
+          [
+            -45.8397305,
+            -23.1792828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 772040729,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8322929,
+            -23.1755353
+          ],
+          [
+            -45.8336041,
+            -23.1761886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 774881690,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9439766,
+            -23.255705
+          ],
+          [
+            -45.9432385,
+            -23.2552474
+          ],
+          [
+            -45.9424476,
+            -23.2547414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 774886812,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.93055,
+            -23.2470927
+          ],
+          [
+            -45.9286134,
+            -23.2458461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 775153560,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7703365,
+            -23.1445368
+          ],
+          [
+            -45.7661133,
+            -23.1424201
+          ],
+          [
+            -45.7659923,
+            -23.1423595
+          ],
+          [
+            -45.7587467,
+            -23.1387279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 775153561,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7797088,
+            -23.1492326
+          ],
+          [
+            -45.7779425,
+            -23.1483657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 775153562,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7802586,
+            -23.1495131
+          ],
+          [
+            -45.7797088,
+            -23.1492326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 775774967,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.7780079,
+            -23.1482708
+          ],
+          [
+            -45.779743,
+            -23.1491512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 775828761,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9340779,
+            -23.2491807
+          ],
+          [
+            -45.936416,
+            -23.2506211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 775828762,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9393565,
+            -23.2525434
+          ],
+          [
+            -45.9419265,
+            -23.2542034
+          ],
+          [
+            -45.9437992,
+            -23.2554003
+          ],
+          [
+            -45.9440003,
+            -23.2555288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 869035500,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9479316,
+            -23.2580579
+          ],
+          [
+            -45.947999,
+            -23.2581007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 884697522,
+        "name": "Rua Dutra",
+        "ref": "",
+        "highway": "residential",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.809863,
+            -23.1791669
+          ],
+          [
+            -45.8095806,
+            -23.1794764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 884697523,
+        "name": "Rua Dutra",
+        "ref": "",
+        "highway": "residential",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8101309,
+            -23.1787973
+          ],
+          [
+            -45.8099268,
+            -23.1790742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 955372085,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8636401,
+            -23.1913702
+          ],
+          [
+            -45.8575626,
+            -23.1883802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 955372086,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8636874,
+            -23.1912501
+          ],
+          [
+            -45.8638868,
+            -23.1913464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 955397898,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9294883,
+            -23.246244
+          ],
+          [
+            -45.9296264,
+            -23.2463325
+          ],
+          [
+            -45.9309355,
+            -23.2471709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 973344589,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "BR-116",
+        "highway": "primary",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.8924171,
+            -23.2129394
+          ],
+          [
+            -45.8919696,
+            -23.2124869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1531311829,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9196966,
+            -23.2382203
+          ],
+          [
+            -45.9194755,
+            -23.2380192
+          ],
+          [
+            -45.91922,
+            -23.237772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1531311830,
+        "name": "Rodovia Presidente Dutra",
+        "ref": "SP-060;BR-116",
+        "highway": "motorway",
+        "source": "OpenStreetMap contributors"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.9267619,
+            -23.2443695
+          ],
+          [
+            -45.9269931,
+            -23.2445454
+          ],
+          [
+            -45.9273176,
+            -23.2447763
+          ],
+          [
+            -45.92857,
+            -23.2456575
+          ]
+        ]
+      }
+    }
+  ]
+}

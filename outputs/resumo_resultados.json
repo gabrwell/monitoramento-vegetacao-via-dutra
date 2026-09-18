@@ -1,0 +1,26 @@
+{
+  "fonte": "Sentinel-2 L2A via Microsoft Planetary Computer STAC API",
+  "pontos_planejados": 92,
+  "pontos_comparaveis": 92,
+  "observacoes_reais": 184,
+  "periodos": [
+    "2024",
+    "2025"
+  ],
+  "prioridades": {
+    "baixa": 65,
+    "media": 22,
+    "alta": 5
+  },
+  "ndvi_medio_anterior": 0.15038706941287153,
+  "ndvi_medio_atual": 0.14397932309657335,
+  "delta_ndvi_medio": -0.006407746316298193,
+  "delta_ndvi_mediano": -0.004608534276485457,
+  "fracao_valida_media_anterior": 1.0,
+  "fracao_valida_media_atual": 1.0,
+  "regra_rotulo": {
+    "alta": "NDVI p90 atual >= 0.4 ou delta NDVI >= 0.05",
+    "media": "NDVI p90 atual >= 0.3 ou delta NDVI >= 0.025",
+    "baixa": "demais pontos"
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "periodo": "2024",
+    "item_id": "S2A_MSIL2A_20240823T131241_R138_T23KLQ_20240823T194758",
+    "data": "2024-08-23",
+    "tile": "23KLQ",
+    "nuvens_item_pct": 0.002442
+  },
+  {
+    "periodo": "2024",
+    "item_id": "S2A_MSIL2A_20240823T131241_R138_T23KMQ_20240823T194758",
+    "data": "2024-08-23",
+    "tile": "23KMQ",
+    "nuvens_item_pct": 0.002999
+  },
+  {
+    "periodo": "2025",
+    "item_id": "S2B_MSIL2A_20250813T131249_R138_T23KLQ_20250813T150043",
+    "data": "2025-08-13",
+    "tile": "23KLQ",
+    "nuvens_item_pct": 0.014582
+  },
+  {
+    "periodo": "2025",
+    "item_id": "S2B_MSIL2A_20250813T131249_R138_T23KMQ_20250813T150043",
+    "data": "2025-08-13",
+    "tile": "23KMQ",
+    "nuvens_item_pct": 1.887071
+  }
+]
